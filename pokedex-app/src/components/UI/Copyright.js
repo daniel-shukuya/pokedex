@@ -9,7 +9,7 @@ const Copyright = ({ textcolor, position }) => {
       textAlign="center"
       textColor="white"
     >
-      PokdexApp Copyright © Juan Manuel Ibarzabal Salles{" "}
+      PokdexApp Copyright © Juan Manuel Ibarzabal Salles{" "}and dani
       {new Date().getFullYear()}
       {"."}
     </Text>
